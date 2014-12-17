@@ -1,2 +1,4 @@
 #UI files
 !*.psd
+
+*.DS_Store
